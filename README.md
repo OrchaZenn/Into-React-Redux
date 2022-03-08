@@ -1,2 +1,2 @@
 # hendry
-You have Right to turn right
+Intro Belajar React v6 - Redux
